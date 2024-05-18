@@ -1,8 +1,6 @@
 
 
-
-
-#  Game Page
+#  Projeto Gta
 
 Este repositório contém os arquivos de código-fonte para uma página web interativa baseada no jogo Grand Theft Auto (GTA). A página foi criada com HTML, CSS e JavaScript para proporcionar uma experiência imersiva aos fãs do jogo.
 
